@@ -185,3 +185,11 @@ div.video > iframe {
     width: 90%;
     height: 90%;
 }
+
+.twitter {
+    border-radius: 70%;
+}
+
+.instagram {
+    border-radius: 70%;
+}
